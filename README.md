@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FideriaJT98
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently Project Management with Coursera 
+- 🌱 I’m currently taking Project Management with Coursera 
 - 💞️ I’m looking to collaborate in any Data related projects
 - 📫 How to reach me: +264813553559
 
